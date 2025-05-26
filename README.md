@@ -22,10 +22,10 @@ This project demonstrates the usage of **BeautifulSoup** and **Pandas** in a sim
 ## 📁 File Structure
 
 Scrapping/
--├── page1.html # Sample HTML file to scrape
--├── Booksdata.csv # Output CSV with scraped book data
--├── script.py # Python script with scraping logic
--└── README.md # Project description and usage
+├── page1.html # Sample HTML file to scrape
+├── Booksdata.csv # Output CSV with scraped book data
+├── script.py # Python script with scraping logic
+└── README.md # Project description and usage
 
 
 ## 📝 How It Works
